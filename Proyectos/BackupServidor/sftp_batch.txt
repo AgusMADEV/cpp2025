@@ -1,0 +1,2 @@
+mkdir copiasdeseguridad
+put -r D:\xampp\htdocs copiasdeseguridad

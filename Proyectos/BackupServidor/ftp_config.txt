@@ -1,0 +1,5 @@
+hostname=static.evo-luciona.es
+port=22
+username=root
+password=AgusMA123$
+folders=D:\xampp\htdocs
